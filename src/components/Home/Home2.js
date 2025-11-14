@@ -48,8 +48,8 @@ function Home2() {
               <br />
               <br />
               I'm constantly expanding my skill set in
-              <b className="purple"> Java, JavaScript, SQL, Linux, and Network Security</b>, 
-              staying up to date with ISO 27001, GDPR, and emerging cyber defense standards.
+              <b className="purple"> Java, SQL, Linux, and Network Security</b>, 
+              Familiar with SEIM Splunk and emerging cyber defense standards.
             </p>
           </Col>
           <Col md={4} className="myAvtar">

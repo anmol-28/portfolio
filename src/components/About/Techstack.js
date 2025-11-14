@@ -9,6 +9,7 @@ import Git from "../../Assets/TechIcons/Git.svg";
 import Mongo from "../../Assets/TechIcons/Mongo.svg";
 import SQL from "../../Assets/TechIcons/SQL.svg";
 import Tailwind from "../../Assets/TechIcons/Tailwind.svg";
+import AWS from "../../Assets/TechIcons/AWS.svg";
 
 function Techstack() {
   return (
@@ -38,16 +39,16 @@ function Techstack() {
         <div className="tech-icons-text">MySQL</div>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <img src={Mongo} alt="mongoDb" className="tech-icon-images" />
-        <div className="tech-icons-text">MongoDB</div>
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
         <img src={Git} alt="git" className="tech-icon-images" />
         <div className="tech-icons-text">Git</div>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <img src={Tailwind} alt="tailwind" className="tech-icon-images" />
         <div className="tech-icons-text">Tailwind CSS</div>
+      </Col>
+       <Col xs={4} md={2} className="tech-icons">
+        <img src={AWS} alt="AWS" className="tech-icon-images" />
+        <div className="tech-icons-text">AWS</div>
       </Col>
     </Row>
   );
