@@ -86,11 +86,6 @@ See [CUSTOMIZATION_GUIDE.md](./CUSTOMIZATION_GUIDE.md) for detailed instructions
 
 This project is open source and available under the MIT License.
 
-## 🙏 Acknowledgments
-
-- Original template by [Soumyajit Behera](https://github.com/soumyajit4419/Portfolio)
-- Customized for cybersecurity focus
-
 ---
 
 **"Making the web a safer place, one vulnerability at a time!"** 🛡️
